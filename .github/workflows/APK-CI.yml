@@ -1,9 +1,6 @@
-name: Android CI
+name: APK-Ci-demo
 
 on:
-  push:
-    branches:
-      - main
   pull_request:
     branches:
       - main
